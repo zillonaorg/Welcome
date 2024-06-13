@@ -1,6 +1,8 @@
 # Welcome
+```
+                                   ## ALL TIMES CST ##
 
-```       SUN      MON         TUE         WED         THU         FRI       SAT
+          SUN      MON         TUE         WED         THU         FRI       SAT
 1:30pm  |------------------------------------------------------------------------|
         |     | SCRUM*     |          | SCRUM*     |          | SCRUM*     |     |
 2pm     |------------------------------------------------------------------------|
@@ -13,6 +15,10 @@
 
 *  All projects
 ** Topics will be announced here weekly
+
+Thursday Skills Topic: 6/6 - TLS/SSL with Let's Encrypt and CertBot
+Tuesday Skills Topic: 6/18 - Docker image lifecycle with FoundryVTT
+Thursday Skills Topic: 6/20 - Kubernetes TBA
 ```
 
 ## Current Projects
