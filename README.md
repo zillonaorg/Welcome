@@ -1,6 +1,31 @@
 # Welcome
 
+```       SUN      MON         TUE         WED         THU         FRI       SAT
+1:30pm  |------------------------------------------------------------------------|
+        |     | SCRUM*     |          | SCRUM*     |          | SCRUM*     |     |
+2pm     |------------------------------------------------------------------------|
+        |     | Open       |          | Open       |          | Open       |     |
+        |     | Discussion |          | Discussion |          | Discussion |     |
+6pm     |------------------------------------------------------------------------|
+        |     |            | Skills** |            | Skills** |            |     |
+        |     |            | Building |            | Building |            |     |
+        |------------------------------------------------------------------------|
 
+*  All projects
+** Topics will be announced here weekly
+```
+
+## Current Projects
+
+### Zillona
+Our flagship project that other rojects rely upon for infrastructure.
+Focus: Kubernetes hosting and maintenance with the use of Terraform, Ansible and automation pipelines for deployment and configuration.
+
+### NerdsPlayDnD
+Hosting of FoundryVTT and related technologies. NodeJS, JSON, Docker.
+
+### Dojo
+Focussed on learning and refining core skills. Linux, Git, Docker, programming and DevOps skills.
 
 ## Getting started
 
