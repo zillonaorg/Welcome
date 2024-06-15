@@ -2,35 +2,34 @@
 ```
                              ## ALL TIMES CST ##
 
-          SUN      MON         TUE         WED         THU         FRI       SAT
-12pm    |------------------------------------------------------------------------|
-        |     | SCRUM*     |          | SCRUM*     |          | SCRUM*     |     |
-12:30pm |------------------------------------------------------------------------|
-        |     | Open       |          | Open       |          | Open       |     |
-        |     | Discussion |          | Discussion |          | Discussion |     |
-5:30pm  |------------------------------------------------------------------------|
-        |     |            | Skills** |            | Skills** |            |     |
-        |     |            | Building |            | Building |            |     |
-        |------------------------------------------------------------------------|
+           SUN       MON        TUE       WED        THU        FRI       SAT
+12pm    |----------------------------------------------------------------------|
+        |       | SCRUM*     |       | SCRUM*     |       | SCRUM*     |       |
+12:30pm |----------------------------------------------------------------------|
+        |       | Open       |       | Open       |       | Open       |       |
+        |       | Discussion |       | Discussion |       | Discussion |       |
+5:30pm  |----------------------------------------------------------------------|
+        |       | Skills**   |       | Skills**   |       |            |       |
+        |       | Building   |       | Building   |       |            |       |
+        |----------------------------------------------------------------------|
 
 *  All projects
 ** Topics will be announced here weekly
 
-Thursday Skills Topic: 6/6 - TLS/SSL with Let's Encrypt and CertBot
 Tuesday Skills Topic: 6/18 - Docker image lifecycle with FoundryVTT
-Thursday Skills Topic: 6/20 - Kubernetes TBA
+Thursday Skills Topic: 6/20 - Kubernetes cluster deployment
 ```
 
-## Current Projects
+## Current Active Projects
 
-### Zillona
+### * Zillona
 Our flagship project that other rojects rely upon for infrastructure.
 Focus: Kubernetes hosting and maintenance with the use of Terraform, Ansible and automation pipelines for deployment and configuration.
 
-### NerdsPlayDnD
+### * NerdsPlayDnD
 Hosting of FoundryVTT and related technologies. NodeJS, JSON, Docker.
 
-### Dojo
+### * Dojo
 Focussed on learning and refining core skills. Linux, Git, Docker, programming and DevOps skills.
 
 ## Getting started
