@@ -5,7 +5,7 @@ Return to [README](README.md)
 Follow the DevOps roadmap at https://roadmap.sh/devops to get a high-level idea of our skills roadmap. \
 For details of our internal path see the skill tree below.
 
-## Notes for contributors
+## Notes for Contributors
 
   * Link useful resources for each skill in this document
   * Please vet 3rd party tutorials and prefer official tutorials where prudent
@@ -18,20 +18,26 @@ For details of our internal path see the skill tree below.
     1. 3rd party tutorials and examples
     1. Internal exercises and presentations
 
-## Prerequisite skills
+## Prerequisite Skills
 
-* Navigate Linux filesystem
-* Edit local files
-* Basic git usage.
+Things to know before you get involved.
+
+### Navigate Linux filesystem
+
+### Edit local files
+
+### Basic git usage.
 
 ## Initial skills: "Getting Padawan'd in"
 
-**TODO - Link internal exercises for the skills below**
+**TODO - Link internal exercises and beginner tutorials for the skills below**
+
+Usually these skills are built and validated by a current member reaching out to help guide the learning process.
 
 * Install a local Debian VM on the workstation.
-* Vim? ("Stateful" editing / editing modes) (( `:w` is `git commit`, `:q` is `git push` ))
 * Install cli tools and dependency packages (Vim, git, curl, etc)
-* Create change branch from "dev"and edit Markdown README.md file in Welcome repo 
+* Vim ("Stateful" editing / editing modes) (( `:w` is `git commit`, `:q` is `git push` ))
+* Create change branch from "dev" and edit Markdown README.md file in Welcome repo 
 * Add, commit, push and merge changes to dev and validate changes
 * HTML editing
 * Install nginx in the VM
@@ -39,9 +45,15 @@ For details of our internal path see the skill tree below.
 * Configure nginx from the CLI
 * Install Docker on the VM
 
-## Intermediate skills
+## Core Skills
 
-### git
+These are the most important and fundamental skills to develop as a newly initiated member of the Dojo.
+
+### Linux
+
+Building on basic Linux skills
+
+### Git
 
 Building on basic git skills
 
@@ -50,10 +62,6 @@ Building on basic git skills
   * [Commit message guide](https://cbea.ms/git-commit/)
   * [Atlassian tutorials & guides](https://git-scm.com/book/en/v2)
   * [Interactive branching tutorial](https://learngitbranching.js.org/)
-
-### Linux
-
-Building on basic Linux skills
 
 ### Docker
 
@@ -64,7 +72,10 @@ Develop core Docker skills
   * [Dockerhub](https://hub.docker.com/)
   * [Dojo exercise #1](docker_exercise-1.md)
 
-## Advanced skills
+## Intermediate Skills
+
+Here the skill tree begins to branch out and become more dense and specialized. 
+See the [DevOps roadmap](https://roadmap.sh/devops) to get your bearings.
 
 ### AWS
 
@@ -75,8 +86,6 @@ Develop core Docker skills
   * [Official tutorials](https://cloud.google.com/docs/tutorials)
 
 ### Azure
-
-### DevOps
 
 ### Bash
 
@@ -103,15 +112,17 @@ Develop core Docker skills
 
 ### Ansible
 
-### Kubernetes: (Administration)
+## Advanced Skills
 
-  * Installation
-  * Configuration
-  * Usage
-
-### Other
+### DevOps
 
   * Release cycles
   * pipelines
   * Network fundamentals
+
+### Kubernetes: 
+
+  * Installation
+  * Configuration
+  * Usage
 
