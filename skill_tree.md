@@ -15,19 +15,13 @@ Return to [README](README.md)
     1. 3rd party tutorials and examples
     1. Internal exercises and presentations
 
-## Prerequisites
+## Prerequisite skills
 
-### Navigate Linux filesystem
+* Navigate Linux filesystem
+* Edit local files
+* Basic git usage.
 
-### Edit local files
-
-### Basic git usage.
-
-  * [Official documentation](https://git-scm.com/book/en/v2)
-  * [Atlassian tutorials & guides](https://git-scm.com/book/en/v2)
-  * [Interactive branching tutorial](https://learngitbranching.js.org/)
-
-## First steps: "Getting Padawan'd in"
+## Initial skills: "Getting Padawan'd in"
 
 * Install a local Debian VM on the workstation.
 * Vim? ("Stateful" editing / editing modes) (( `:w` is `git commit`, `:q` is `git push` ))
@@ -40,24 +34,32 @@ Return to [README](README.md)
 * Configure nginx from the CLI
 * Install Docker on the VM
 
-## Next steps
+## Intermediate skills
+
+### git
+
+Building on basic git skills
+
+  * [Official documentation](https://www.git-scm.com/doc)
+  * [Gitlab best practices guide](https://about.gitlab.com/topics/version-control/version-control-best-practices/)
+  * [Commit message guide](https://cbea.ms/git-commit/)
+  * [Atlassian tutorials & guides](https://git-scm.com/book/en/v2)
+  * [Interactive branching tutorial](https://learngitbranching.js.org/)
+
+### Linux
+
+Building on basic Linux skills
 
 ### Docker
+
+Develop core Docker skills
 
   * [Official Documentation](https://docs.docker.com/)
   * [Dockerfile best practices](https://docs.docker.com/guides/workshop/09_image_best/)
   * [Dockerhub](https://hub.docker.com/)
   * [Docker exercise #1](docker_exercise-1.md)
 
-### Advanced git
-
-  * (Branching strategies, merging strategies, tagging and release, commit etiquet, fixing mistakes)
-
-### Advanced Linux
-
 ## Advanced skills
-
-### Linux
 
 ### AWS
 
