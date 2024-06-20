@@ -22,21 +22,31 @@ Wednesday Skills Topic: MONTH/DAY - Topic for discussion or demonstration
 
 ## Current Active Projects
 
-### [Zillona] (https://gitlab.com/zillona)
+### Zillona 
 
 Our flagship project that other projects rely upon for infrastructure. \
 Focus: Kubernetes hosting and administration with the use of Terraform, Ansible and automation pipelines for deployment and configuration.
+[Slack] (https://zillona.slack.com/channels/zillona) https://zillona.slack.com/channels/zillona
+[Jira] (https://zillona.atlassian.net/jira/core/projects/ZIL/board) https://zillona.atlassian.net/jira/core/projects/ZIL/board
+[Gitlab] (https://gitlab.com/zillona) https://gitlab.com/zillona
 
-### [NerdsPlayDnD] (https://gitlab.com/nerdsplaydnd)
+### NerdsPlayDnD
 
 ( See also: dnddevops, tabletech )
+https://gitlab.com/nerdsplaydnd
 Hosting of FoundryVTT and related technologies. 
 Focus: NodeJS, JSON, Docker.
+Slack: https://zillona.slack.com/channels/nerdsplaydnd
+Jira: https://zillona.atlassian.net/jira/core/projects/NPD/board
+Gitlab: https://gitlab.com/nerdsplaydnd
 
-### [Dojo] (https://gitlab.com/zillona-dojo)
+### Dojo ( This project )
 
 Focussed on learning and refining core skills. 
 Focus: Linux, Git, Docker, programming and DevOps skills.
+[Slack] (https://zillona.slack.com/channels/dojo)
+[Jira] (https://zillona.atlassian.net/jira/core/projects/DOJ/board)
+[Gitlab] (https://gitlab.com/zillona-dojo)
 
 ## Skills progression in the Dojo
 
