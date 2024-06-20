@@ -1,6 +1,6 @@
 # Welcome 
 ```
-                             ## ALL TIMES CST ##
+                                  ## ALL TIMES CST ##
 
            SUN       MON        TUE       WED        THU        FRI       SAT
 12pm    |----------------------------------------------------------------------|
@@ -22,23 +22,25 @@ Wednesday Skills Topic: MONTH/DAY - Topic for discussion or demonstration
 
 ## Current Active Projects
 
-### * Zillona
+### [Zillona] (https://gitlab.com/zillona)
 
 Our flagship project that other projects rely upon for infrastructure. \
 Focus: Kubernetes hosting and administration with the use of Terraform, Ansible and automation pipelines for deployment and configuration.
 
-### * NerdsPlayDnD
-( See also; dnddevops, tabletech ) \
+### [NerdsPlayDnD] (https://gitlab.com/nerdsplaydnd)
 
-Hosting of FoundryVTT and related technologies. NodeJS, JSON, Docker.
+( See also: dnddevops, tabletech )
+Hosting of FoundryVTT and related technologies. 
+Focus: NodeJS, JSON, Docker.
 
-### * Dojo
+### [Dojo] (https://gitlab.com/zillona-dojo)
 
-Focussed on learning and refining core skills. Linux, Git, Docker, programming and DevOps skills.
+Focussed on learning and refining core skills. 
+Focus: Linux, Git, Docker, programming and DevOps skills.
 
 ## Skills progression in the Dojo
 
-Things to know & things to learn \
+**Things to know & things to learn**
 Please see our [skills Tree] (skill_tree.md) for skill progression information and links.
 
 ## Getting started
@@ -85,11 +87,12 @@ Use the built-in continuous integration in GitLab.
 
 # Editing this README
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
+When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). 
 
 ## Markdown documentation
 
-Here is the official [GitHub] (https://github.com) Markdown [style guide] (https://google.github.io/styleguide/docguide/style.html)
+Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template and [cheat sheet] (https://www.markdownguide.org/cheat-sheet/).
+Here is the official [GitHub] (https://github.com) Markdown [style guide] (https://google.github.io/styleguide/docguide/style.html).
 
 ## Suggestions for a good README
 
