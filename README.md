@@ -1,4 +1,4 @@
-# Welcome 
+# Welcome to the Zillona.org Tech Dojo
 ```
                                   ## ALL TIMES CST ##
 
@@ -20,37 +20,38 @@ Monday Skills Topic: MONTH/DAY - Topic for discussion or demonstration
 Wednesday Skills Topic: MONTH/DAY - Topic for discussion or demonstration
 ```
 
-## Current Active Projects
+## Currently Active Projects
 
 ### Zillona 
 
 Our flagship project that other projects rely upon for infrastructure. \
 Focus: Kubernetes hosting and administration with the use of Terraform, Ansible and automation pipelines for deployment and configuration.
-[Slack](https://zillona.slack.com/channels/zillona) https://zillona.slack.com/channels/zillona
-[Jira](https://zillona.atlassian.net/jira/core/projects/ZIL/board) https://zillona.atlassian.net/jira/core/projects/ZIL/board
-[Gitlab](https://gitlab.com/zillona) https://gitlab.com/zillona
+* Slack: https://zillona.slack.com/channels/zillona
+* Jira: https://zillona.atlassian.net/jira/core/projects/ZIL/board
+* Gitlab: https://gitlab.com/zillona
+* Website: https://zilona.org
 
-### NerdsPlayDnD
+### NerdsPlayDnD ( See also: dnddevops, tabletech )
 
-( See also: dnddevops, tabletech ) \
 Hosting of FoundryVTT and related technologies. \
-Focus: NodeJS, JSON, Docker.
+Focus: NodeJS, JSON, Docker, production service hosting
 * Slack: https://zillona.slack.com/channels/nerdsplaydnd
 * Jira: https://zillona.atlassian.net/jira/core/projects/NPD/board
 * Gitlab: https://gitlab.com/nerdsplaydnd
+* FoundryVTT: https://zillona.nerdsplaydnd.com
 
 ### Dojo ( This project )
 
-Focussed on learning and refining core skills. \
+Learning and refinement of core skills and technologies. \
 Focus: Linux, Git, Docker, programming and DevOps skills.
-[Slack](https://zillona.slack.com/channels/dojo)
-[Jira](https://zillona.atlassian.net/jira/core/projects/DOJ/board)
-[Gitlab](https://gitlab.com/zillona-dojo)
+* Slack: (https://zillona.slack.com/channels/dojo
+* Jira: (https://zillona.atlassian.net/jira/core/projects/DOJ/board
+* Gitlab: (https://gitlab.com/zillona-dojo
 
 ## Skills progression in the Dojo
 
-**Things to know & things to learn**
-Please see our [skills Tree] (skill_tree.md) for skill progression information and links.
+**Things to know & things to learn** \
+Please see our [skills Tree](skill_tree.md) for skill progression information and links.
 
 ## Getting started
 
@@ -100,8 +101,8 @@ When you're ready to make this README your own, just edit this file and use the 
 
 ## Markdown documentation
 
-Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template and [cheat sheet] (https://www.markdownguide.org/cheat-sheet/).
-Here is the official [GitHub] (https://github.com) Markdown [style guide] (https://google.github.io/styleguide/docguide/style.html).
+Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template and [cheat sheet](https://www.markdownguide.org/cheat-sheet/). \
+Please reference the official [GitHub](https://github.com) Markdown [style guide](https://google.github.io/styleguide/docguide/style.html).
 
 ## Suggestions for a good README
 
