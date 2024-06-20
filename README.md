@@ -23,72 +23,23 @@ Wednesday Skills Topic: MONTH/DAY - Topic for discussion or demonstration
 ## Current Active Projects
 
 ### * Zillona
-Our flagship project that other rojects rely upon for infrastructure.
-Focus: Kubernetes hosting and maintenance with the use of Terraform, Ansible and automation pipelines for deployment and configuration.
+
+Our flagship project that other projects rely upon for infrastructure. \
+Focus: Kubernetes hosting and administration with the use of Terraform, Ansible and automation pipelines for deployment and configuration.
 
 ### * NerdsPlayDnD
+( See also; dnddevops, tabletech ) \
+
 Hosting of FoundryVTT and related technologies. NodeJS, JSON, Docker.
 
 ### * Dojo
+
 Focussed on learning and refining core skills. Linux, Git, Docker, programming and DevOps skills.
 
-## Proposed skill tree progression
+## Skills progression in the Dojo
 
-### Pre-Requisites:
-* Navigate Linux filesystem
-* Edit local files
-* Basic git usage.
-
-### First steps: "Getting Padawan'd in"
-* Have them install a local Debian VM on their workstation.
-* Vim? ("Stateful" editing / editing modes) (( `:w` is `git commit`, `:q` is `git push` ))
-* Install cli tools and dependencies packages (Vim, git, curl, etc)
-* Create change branch from "dev"and edit Markdown README.md file in Welcome repo 
-* Add, commit, push and merge changes to dev and validate changes
-* HTML editing
-* Install nginx in the VM
-* Bash scripting (Save install steps)
-* Configure nginx from the CLI
-* Install Docker on the VM
-
-### Next steps: Internship
-
-  Docker:
-*   https://hub.docker.com/_/nginx
-*   Select mainline (explain that the releases are different git brnches?)
-*   Git pull Dockerfile repo from upstream
-*   Open and examin Dockerfile (Replace with simplified file?)
-*   Build docker image `docker build -t nginx:local .`
-*   Create docker container from local image and enter container.
-*   Make configuration changes inside container. Then restart the container to see changes have disappeared. 
-*   Write script to automate changes.
-*   Turn script into Dockerfile sourced FROM upstream image in Repo.
-*   Re-build from Dockerfile and push to project registry in artifact registry.
-*   Cloud usage
-
-### Building core skills:
-* Advanced git (Branching strategies, Merging strategies, Fixing mistakes)
-* Advanced Linux skills
-* Advanced Nginx (or other service configuration)
-
-### Advanced topics:
-* Cloud administration
-* Network fundamentals
-* Kubernetes: (Administration)
-**  Installation
-**  Configuration
-**  Usage
-* TF Code / Ansible
-* Programming
-* Release cycles
-* pipelines
-
-### Padawan program?
-* ?
-
------------------------
-# "LEGACY CODE" follows
------------------------
+Things to know & things to learn \
+Please see our [skills Tree] (skill_tree.md) for skill progression information and links.
 
 ## Getting started
 
@@ -135,6 +86,10 @@ Use the built-in continuous integration in GitLab.
 # Editing this README
 
 When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
+
+## Markdown documentation
+
+Here is the official [GitHub] (https://github.com) Markdown [style guide] (https://google.github.io/styleguide/docguide/style.html)
 
 ## Suggestions for a good README
 
