@@ -1,5 +1,7 @@
-# Welcome to the [Zillona.org](https://zillona.org) Tech Dojo
-.
+# Welcome to the [Zillona.org](https://zillona.org) Dojo
+
+## Weekly Dojo Schedule
+
 ```
                                   ## ALL TIMES CST ##
 
@@ -29,7 +31,7 @@ Our flagship project that other projects rely upon for infrastructure. \
 Focus: Kubernetes hosting and administration with the use of Terraform, Ansible and automation pipelines for deployment and configuration.
 * Slack: https://zillona.slack.com/channels/zillona
 * Jira: https://zillona.atlassian.net/jira/core/projects/ZIL/board
-* Git repository: https://gitlab.com/zillona
+* Git project: https://gitlab.com/zillona
 * Website: https://zilona.org
 
 ### NerdsPlayDnD ( See also: dnddevops, tabletech )
@@ -38,7 +40,7 @@ Hosting of FoundryVTT and related technologies. \
 Focus: NodeJS, JSON, Docker, production service hosting
 * Slack: https://zillona.slack.com/channels/nerdsplaydnd
 * Jira: https://zillona.atlassian.net/jira/core/projects/NPD/board
-* Git repository: https://gitlab.com/nerdsplaydnd
+* Git project: https://gitlab.com/nerdsplaydnd
 * FoundryVTT: https://zillona.nerdsplaydnd.com
 
 ### Dojo ( This project )
@@ -47,12 +49,12 @@ Learning and refinement of core skills and technologies. \
 Focus: Linux, Git, Docker, programming and DevOps skills.
 * Slack: https://zillona.slack.com/channels/dojo
 * Jira: https://zillona.atlassian.net/jira/core/projects/DOJ/board
-* Git repository: https://gitlab.com/zillona-dojo
+* Git project: https://gitlab.com/zillona-dojo
 * Website: https://www.zillona.org/dojo
 
 ## Skills progression in the Dojo
 
-**Things to know & things to learn**
+**Things to Know & Things to Learn**
 
 Please see our [skills tree](skill_tree.md) for skill progression information and links.
 
@@ -105,7 +107,7 @@ When you're ready to make this README your own, just edit this file and use the 
 ## Markdown Help
 
 Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template and [cheat sheet](https://www.markdownguide.org/cheat-sheet/). \
-Please reference the official [GitHub](https://github.com) Markdown [style guide](https://google.github.io/styleguide/docguide/style.html).
+Please reference the official [GitHub](https://github.com) Markdown [style guide](https://google.github.io/styleguide/docguide/style.html) when editing.
 
 ## Suggestions for a good README
 
