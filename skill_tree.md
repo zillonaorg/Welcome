@@ -23,20 +23,9 @@ Return to [README](README.md)
 
 ## Next steps:
 
-Docker:
-* https://hub.docker.com/_/nginx
-* Select mainline (explain that the releases are different git brnches?)
-* Git pull Dockerfile repo from upstream
-* Open and examin Dockerfile (Replace with simplified file?)
-* Build docker image `docker build -t nginx:local .`
-* Create docker container from local image and enter container.
-* Make configuration changes inside container. Then restart the container to see changes have disappeared. 
-* Write script to automate changes.
-* Turn script into Dockerfile sourced FROM upstream image in Repo.
-* Re-build from Dockerfile and push to project registry in artifact registry.
-* Cloud usage
+### Docker
 
-## Building core skills:
+  1. [Docker exercise #1](docker_exercise-1.md)
 
 * Advanced git (Branching strategies, Merging strategies, Fixing mistakes)
 * Advanced Linux skills
