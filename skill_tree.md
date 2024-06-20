@@ -26,7 +26,7 @@ For details of our internal path see the skill tree below.
 
 ## Initial skills: "Getting Padawan'd in"
 
-** TODO - Link internal exercises for the skills below **
+**TODO - Link internal exercises for the skills below**
 
 * Install a local Debian VM on the workstation.
 * Vim? ("Stateful" editing / editing modes) (( `:w` is `git commit`, `:q` is `git push` ))
@@ -62,7 +62,7 @@ Develop core Docker skills
   * [Official Documentation](https://docs.docker.com/)
   * [Dockerfile best practices](https://docs.docker.com/guides/workshop/09_image_best/)
   * [Dockerhub](https://hub.docker.com/)
-  * [Docker exercise #1](docker_exercise-1.md)
+  * [Dojo exercise #1](docker_exercise-1.md)
 
 ## Advanced skills
 
