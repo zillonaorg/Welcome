@@ -2,6 +2,9 @@ Return to [README](README.md)
 
 # Skill Tree Progression
 
+Follow the DevOps roadmap at https://roadmap.sh/devops to get a high-level idea of our skills roadmap. \
+For details of our internal path see the skill tree below.
+
 ## Notes for contributors
 
   * Link useful resources for each skill in this document
@@ -22,6 +25,8 @@ Return to [README](README.md)
 * Basic git usage.
 
 ## Initial skills: "Getting Padawan'd in"
+
+** TODO - Link internal exercises for the skills below **
 
 * Install a local Debian VM on the workstation.
 * Vim? ("Stateful" editing / editing modes) (( `:w` is `git commit`, `:q` is `git push` ))
