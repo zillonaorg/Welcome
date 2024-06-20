@@ -1,5 +1,5 @@
-# Welcome to the Zillona.org Tech Dojo
-```
+# Welcome to the [Zillona.org](https://zillona.org) Tech Dojo
+\```
                                   ## ALL TIMES CST ##
 
            SUN       MON        TUE       WED        THU        FRI       SAT
@@ -51,7 +51,7 @@ Focus: Linux, Git, Docker, programming and DevOps skills.
 ## Skills progression in the Dojo
 
 **Things to know & things to learn** \
-Please see our [skills Tree](skill_tree.md) for skill progression information and links.
+Please see our [skills tree](skill_tree.md) for skill progression information and links.
 
 ## Getting started
 
