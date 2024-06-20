@@ -1,8 +1,8 @@
 Return to [README](README.md)
 
-# Proposed skill tree progression
+# Skill Tree Progression
 
-## Pre-Requisites:
+## Pre-Requisites
 
 * Navigate Linux filesystem
 * Edit local files
@@ -21,26 +21,48 @@ Return to [README](README.md)
 * Configure nginx from the CLI
 * Install Docker on the VM
 
-## Next steps:
+## Next steps
 
 ### Docker
 
-  1. [Docker exercise #1](docker_exercise-1.md)
+  * [Docker exercise #1](docker_exercise-1.md)
 
-* Advanced git (Branching strategies, Merging strategies, Fixing mistakes)
-* Advanced Linux skills
-* Advanced Nginx (or other service configuration)
+  * [Official Documentation](https://docs.docker.com/)
+  * [Dockerfile best practices](https://docs.docker.com/guides/workshop/09_image_best/)
 
-## Advanced topics:
+### Core Skills
 
-* Cloud administration
-* Network fundamentals
-* Kubernetes: (Administration)
-**  Installation
-**  Configuration
-**  Usage
-* TF Code / Ansible
-* Programming
+  * Advanced git (Branching strategies, Merging strategies, Fixing mistakes)
+  * Advanced Linux skills
+  * Advanced Nginx (or other service configuration)
+
+## Certification Tracks
+
+### AWS
+
+### GCP
+
+### Azure
+
+### Kubernetes: (Administration)
+
+  * Installation
+  * Configuration
+  * Usage
+
+### Terraform
+
+### Ansible
+
+### Bash
+
+### Python
+
+### Golang
+
+### NodeJS
+
 * Release cycles
 * pipelines
+* Network fundamentals
 
