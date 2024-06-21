@@ -1,18 +1,45 @@
 Return to [README](README.md) \
 Return to [skill tree](skill_tree.md)
 
-# Docker:
+# Docker Lifecycle Exercise
 
-* https://hub.docker.com/_/nginx
-* Select mainline (explain that the releases are different git brnches?)
-* Git pull Dockerfile repo from upstream
-* Open and examin Dockerfile (Replace with simplified file?)
-* Pull upstream base Docker image from Dockerfile
-* Create fresh Dockerfile using base image from upstream Dockerfile.
-* Build docker image `docker build -t nginx:local .`
+Explore published docker images at https:///hub.docker.com, pull and modify upstream Dockerfiles, build, run and push local images to a private repository.
+
+* Visit https://hub.docker.com/_/nginx in your browser for official Nginx docker images
+* Select *mainline* to view latest release of Dockerfile in main branch
+* Pull upstream Git repository and navigate to mainline Dockerfile
+  `git clone https://github.com/nginxinc/docker-nginx.git`
+  `cd cd docker-nginx/mainline/debian/`
+* Open and examin Dockerfile
+  `vim Dockerfile`
+* Copy upstream docker image from Dockerfile
+  `FROM debian:bookworm-slim`
+* Familiarize yourself with Dockerfile [best practices](https://docs.docker.com/guides/workshop/09_image_best/)
+* In an empty directory create a fresh Dockerfile using base image from upstream Dockerfile.
+  `echo 'FROM debian:bookworm-slim' > Dockerfile`
+* Build docker image from new Dockerfile
+  `docker build -t debian:local .`
 * Create docker container from local image and enter container.
-* Make configuration changes inside container. Then restart the container to see changes have disappeared. 
-* Write script to automate changes.
-* Turn script into Dockerfile sourced FROM upstream image in Repo.
-* Re-build from Dockerfile and push to project registry in artifact registry.
-* Cloud usage
+  `docker run -it debian:local bash`
+* Install nginx and dependencies
+  ``
+* Exit container
+  ``
+* relaunch container
+  ``
+* Run nginx
+  ``
+* Write simple command list script to re-install nginx 
+  ``
+* Update Dockerfile to include script and web content
+  ``
+* Build docker image from new Dockerfile
+  `docker build -t nginx:local .`
+* Test local container
+  ``
+* Push Dockerfile to git repository
+  ``
+* Save container to new image
+  ``
+* Push container to private registry 
+  ``
