@@ -33,7 +33,6 @@ Explore published docker images at https:///hub.docker.com, pull and modify upst
 * Install nginx and dependencies
   1. `apt update && apt upgrade -y`
   1. `apt install -y nginx`
-  1. ``
 
 * Exit container
   1. `exit`
@@ -45,11 +44,11 @@ Explore published docker images at https:///hub.docker.com, pull and modify upst
   1. ``
 
 * Write simple command list script to re-install nginx 
-  1. `apt update && apt upgrade -y`
-  1. `apt install -y nginx`
+  1. `echo "apt update && apt upgrade -y" >> nginx.sh`
+  1. `echo "apt install -y nginx" >> nginx.sh`
 
 * Update Dockerfile to include script and web content
-  1. `Ctrl+p, Ctrl+q`
+  1. `ADD nginx.sh`
 
 * Build docker image from new Dockerfile
   1. `docker build -t nginx:local .`
