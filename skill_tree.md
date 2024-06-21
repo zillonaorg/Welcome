@@ -24,9 +24,19 @@ Things to know before you get involved.
 
 ### Navigate Linux filesystem
 
+  * [Ubuntu tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+  * [Dojo Linux exercise #1](linux_exercise-1.md)
+
 ### Edit local files
 
+  * [Ubuntu tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+  * [Dojo Linux exercise #2](linux_exercise-2.md)
+
 ### Basic git usage.
+
+  * [Official beginers guide](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
+  * [GitHub command examples](https://docs.github.com/en/get-started/using-git/about-git#github-and-the-command-line)
+  * [Dojo git exercise #1](git_exercise-1.md)
 
 ## Initial skills: "Getting Padawan'd in"
 
@@ -53,15 +63,17 @@ These are the most important and fundamental skills to develop as a newly initia
 
 Building on basic Linux skills
 
+  * [Debian GNU/Linux documentation](https://www.debian.org/doc/)
+
 ### Git
 
 Building on basic git skills
 
   * [Official documentation](https://www.git-scm.com/doc)
   * [Gitlab best practices guide](https://about.gitlab.com/topics/version-control/version-control-best-practices/)
-  * [Commit message guide](https://cbea.ms/git-commit/)
-  * [Atlassian tutorials & guides](https://git-scm.com/book/en/v2)
+  * [Atlassian tutorials & guides](https://www.atlassian.com/git/tutorials)
   * [Interactive branching tutorial](https://learngitbranching.js.org/)
+  * [Commit message guide](https://cbea.ms/git-commit/)
 
 ### Docker
 
@@ -69,15 +81,18 @@ Develop core Docker skills
 
   * [Official Documentation](https://docs.docker.com/)
   * [Dockerfile best practices](https://docs.docker.com/guides/workshop/09_image_best/)
-  * [Dockerhub](https://hub.docker.com/)
-  * [Dojo exercise #1](docker_exercise-1.md)
+  * [Docker Hub](https://hub.docker.com/)
+  * [Dojo Docker exercise #1](docker_exercise-1.md)
 
 ## Intermediate Skills
 
 Here the skill tree begins to branch out and become more dense and specialized. 
-See the [DevOps roadmap](https://roadmap.sh/devops) to get your bearings.
+Refer to the [DevOps roadmap](https://roadmap.sh/devops) to get your bearings.
 
 ### AWS
+
+  * [Official documentation](https://www.atlassian.com/git/tutorials)
+  * [AWS certification](https://aws.amazon.com/certification/)
 
 ### GCP
 
@@ -86,6 +101,9 @@ See the [DevOps roadmap](https://roadmap.sh/devops) to get your bearings.
   * [Official tutorials](https://cloud.google.com/docs/tutorials)
 
 ### Azure
+
+  * [Official documentation](https://learn.microsoft.com/en-us/azure/?product=popular)
+  * [Azure certification](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification&products=azure)
 
 ### Bash
 
@@ -100,7 +118,13 @@ See the [DevOps roadmap](https://roadmap.sh/devops) to get your bearings.
 
 ### Golang
 
+  * [Official documentation](https://go.dev/doc/)
+  * [Google style guide](https://google.github.io/styleguide/go/)
+
 ### NodeJS
+
+  * [Official documentation](https://nodejs.org/docs/latest/api/documentation.html)
+  * [Google style guide](https://google.github.io/styleguide/jsguide.html)
 
 ### Terraform
 
@@ -112,9 +136,28 @@ See the [DevOps roadmap](https://roadmap.sh/devops) to get your bearings.
 
 ### Ansible
 
+  * [Official documentation](https://docs.ansible.com/)
+  * [Official style guide](https://docs.ansible.com/ansible/2.10/dev_guide/style_guide/index.html)
+  * [Red Hat Ansible certification](https://www.redhat.com/en/technologies/management/ansible/training-and-certification)
+  * [Ansible Galaxy](https://galaxy.ansible.com/ui/)
+
 ## Advanced Skills
 
+### UNIX wizardry
+
+The deep lore
+
+  * [Jargon file](http://www.catb.org/jargon/html/)
+
+### Regex
+
+Wizardry from the bearded ancients
+
+  * [Regular Expressions](https://en.wikipedia.org/wiki/Regular_expression)
+
 ### DevOps
+
+What we do
 
   * Release cycles
   * pipelines
@@ -122,7 +165,10 @@ See the [DevOps roadmap](https://roadmap.sh/devops) to get your bearings.
 
 ### Kubernetes: 
 
-  * Installation
-  * Configuration
-  * Usage
+The core technology at the heart of the Zillona project
+
+  * [Official documentation](https://kubernetes.io/docs/home/)
+  * [Helm documentation](https://helm.sh/docs/)
+  * [Helm style guide](https://helm.sh/docs/chart_template_guide/yaml_techniques/)
+  * [CKA certification](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 
