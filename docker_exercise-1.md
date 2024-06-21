@@ -11,7 +11,7 @@ Explore published docker images at https:///hub.docker.com, pull and modify upst
 
 * Pull upstream Git repository and navigate to mainline Dockerfile
   1. `git clone https://github.com/nginxinc/docker-nginx.git`
-  1. `cd cd docker-nginx/mainline/debian/`
+  1. `cd docker-nginx/mainline/debian/`
 
 * Open and examin Dockerfile
   1. `vim Dockerfile`
@@ -54,16 +54,19 @@ Explore published docker images at https:///hub.docker.com, pull and modify upst
   1. `docker build -t nginx:local .`
 
 * Test local container
-  1. ``
+  1. `curl localhost:8080`
 
 * Push Dockerfile to git repository
-  1. ``
+  1. `git init`
+  1. `git add Dockerfile`
+  1. `git commit -m "Add Dockerfile"`
+  1. `git push`
 
 * Save container to new image
-  1. ` nginx:USERNAME`
+  1. ` nginx:$USERNAME`
 
 * Authenticate to prvate registry
-  1. ``
+  1. `docker login`
 
 * Push container to private registry 
   1. ``
