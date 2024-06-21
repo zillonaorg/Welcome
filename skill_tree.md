@@ -145,15 +145,12 @@ Refer to the [DevOps roadmap](https://roadmap.sh/devops) to get your bearings.
 
 ### UNIX wizardry
 
-The deep lore
+The deep lore, wizardry from the bearded ancients
 
   * [Jargon file](http://www.catb.org/jargon/html/)
-
-### Regex
-
-Wizardry from the bearded ancients
-
   * [Regular Expressions](https://en.wikipedia.org/wiki/Regular_expression)
+  * [Official Vim documentation](https://www.vim.org/docs.php)
+  * [Vim advanced guide](https://thevaluable.dev/vim-advanced/)
 
 ### DevOps
 
@@ -162,6 +159,7 @@ What we do
   * Release cycles
   * pipelines
   * Network fundamentals
+  * [DevOps definition](https://en.wikipedia.org/wiki/DevOps)
 
 ### Kubernetes: 
 
