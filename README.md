@@ -1,4 +1,4 @@
-# Welcome to the [Zillona.org](https://zillona.org) Dojo
+# Welcome to the [Zillona.org](https://www.zillona.org) Dojo
 
 ## Weekly Dojo Schedule
 
