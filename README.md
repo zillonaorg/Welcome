@@ -1,6 +1,9 @@
-# Welcome 
+# Welcome to the [Zillona.org](https://www.zillona.org) Dojo
+
+## Weekly Dojo Schedule
+
 ```
-                             ## ALL TIMES CST ##
+                                  ## ALL TIMES CST ##
 
            SUN       MON        TUE       WED        THU        FRI       SAT
 12pm    |----------------------------------------------------------------------|
@@ -20,75 +23,40 @@ Monday Skills Topic: MONTH/DAY - Topic for discussion or demonstration
 Wednesday Skills Topic: MONTH/DAY - Topic for discussion or demonstration
 ```
 
-## Current Active Projects
+## Currently Active Projects
 
-### * Zillona
-Our flagship project that other rojects rely upon for infrastructure.
-Focus: Kubernetes hosting and maintenance with the use of Terraform, Ansible and automation pipelines for deployment and configuration.
+### Zillona 
 
-### * NerdsPlayDnD
-Hosting of FoundryVTT and related technologies. NodeJS, JSON, Docker.
+Our flagship project that other projects rely upon for infrastructure. \
+Focus: Kubernetes hosting and administration with the use of Terraform, Ansible and automation pipelines for deployment and configuration.
+* Slack: https://zillona.slack.com/channels/zillona
+* Jira: https://zillona.atlassian.net/jira/core/projects/ZIL/board
+* Git project: https://gitlab.com/zillona
+* Website: https://zilona.org
 
-### * Dojo
-Focussed on learning and refining core skills. Linux, Git, Docker, programming and DevOps skills.
+### NerdsPlayDnD ( See also: dnddevops, tabletech )
 
-## Proposed skill tree progression
+Hosting of FoundryVTT and related technologies. \
+Focus: NodeJS, JSON, Docker, production service hosting
+* Slack: https://zillona.slack.com/channels/nerdsplaydnd
+* Jira: https://zillona.atlassian.net/jira/core/projects/NPD/board
+* Git project: https://gitlab.com/nerdsplaydnd
+* FoundryVTT: https://zillona.nerdsplaydnd.com
 
-### Pre-Requisites:
-* Navigate Linux filesystem
-* Edit local files
-* Basic git usage.
+### Dojo ( This project )
 
-### First steps: "Getting Padawan'd in"
-* Have them install a local Debian VM on their workstation.
-* Vim? ("Stateful" editing / editing modes) (( `:w` is `git commit`, `:q` is `git push` ))
-* Install cli tools and dependencies packages (Vim, git, curl, etc)
-* Create change branch from "dev"and edit Markdown README.md file in Welcome repo 
-* Add, commit, push and merge changes to dev and validate changes
-* HTML editing
-* Install nginx in the VM
-* Bash scripting (Save install steps)
-* Configure nginx from the CLI
-* Install Docker on the VM
+Learning and refinement of core skills and technologies. \
+Focus: Linux, Git, Docker, programming and DevOps skills.
+* Slack: https://zillona.slack.com/channels/dojo
+* Jira: https://zillona.atlassian.net/jira/core/projects/DOJ/board
+* Git project: https://gitlab.com/zillona-dojo
+* Website: https://www.zillona.org/dojo
 
-### Next steps: Internship
+## Skills progression in the Dojo
 
-  Docker:
-*   https://hub.docker.com/_/nginx
-*   Select mainline (explain that the releases are different git brnches?)
-*   Git pull Dockerfile repo from upstream
-*   Open and examin Dockerfile (Replace with simplified file?)
-*   Build docker image `docker build -t nginx:local .`
-*   Create docker container from local image and enter container.
-*   Make configuration changes inside container. Then restart the container to see changes have disappeared. 
-*   Write script to automate changes.
-*   Turn script into Dockerfile sourced FROM upstream image in Repo.
-*   Re-build from Dockerfile and push to project registry in artifact registry.
-*   Cloud usage
+**Things to Know & Things to Learn**
 
-### Building core skills:
-* Advanced git (Branching strategies, Merging strategies, Fixing mistakes)
-* Advanced Linux skills
-* Advanced Nginx (or other service configuration)
-
-### Advanced topics:
-* Cloud administration
-* Network fundamentals
-* Kubernetes: (Administration)
-**  Installation
-**  Configuration
-**  Usage
-* TF Code / Ansible
-* Programming
-* Release cycles
-* pipelines
-
-### Padawan program?
-* ?
-
------------------------
-# "LEGACY CODE" follows
------------------------
+Please see our [skills tree](skill_tree.md) for skill progression information and links.
 
 ## Getting started
 
@@ -134,7 +102,12 @@ Use the built-in continuous integration in GitLab.
 
 # Editing this README
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
+When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). 
+
+## Markdown Help
+
+Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template and [cheat sheet](https://www.markdownguide.org/cheat-sheet/). \
+Please reference the official [GitHub](https://github.com) Markdown [style guide](https://google.github.io/styleguide/docguide/style.html) when editing.
 
 ## Suggestions for a good README
 
