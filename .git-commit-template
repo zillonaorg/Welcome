@@ -1,0 +1,5 @@
+<type>(optional scope): Subject line - 50 chars  ]                               
+                                                                                 
+Body - Clearly explain what changed and why - wrap text at 72 chars    ]         
+                                                                                 
+Footer - include issue or ticket - eg [refs: #001]
