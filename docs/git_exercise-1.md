@@ -1,7 +1,6 @@
-Return to [README](README.md) \
+Return to [README](../README.md) \
 Return to [skill tree](skill_tree.md)
 
-# Linux Exercise
+# Git Exercise
 
 **TODO: Create presentation and exercise**
-

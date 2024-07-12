@@ -1,4 +1,4 @@
-Return to [README](README.md)
+Return to [README](../README.md)
 
 # Skill Tree Progression
 
