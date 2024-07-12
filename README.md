@@ -33,7 +33,7 @@ and automation pipelines for deployment and configuration.
 * Slack: https://zillona.slack.com/channels/zillona
 * Jira: https://zillona.atlassian.net/jira/core/projects/ZIL/board
 * Git project: https://github.com/orgs/zillonaorg/
-* Website: https://zilona.org
+* Website: https://www.zillona.org
 
 ### NerdsPlayDnD ( See also: dnddevops, tabletech )
 
