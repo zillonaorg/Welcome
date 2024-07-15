@@ -9,41 +9,41 @@ This document outlines a series of basic Linux commands you'll practice.
 
 ## Task
 
-**I. Navigate to the Home Directory**
+* **Navigate to the Home Directory:**
 
-Begin by navigating to your user's home directory using the `cd ~` command. This tilde symbol (`~`) represents a shortcut to your home directory.
+  Begin by navigating to your user's home directory using the `cd ~` command. This tilde symbol (`~`) represents a shortcut to your home directory.
 
-**II. List Directory Contents**
+* **List Directory Contents:**
 
-Use the `ls` command to list the contents of the current directory, which should be your home directory at this point.
+  Use the `ls` command to list the contents of the current directory, which should be your home directory at this point.
 
-**III. Create a New Directory**
+* **Create a New Directory:**
 
-Create a new directory named "documents" using the `mkdir documents` command.
+  Create a new directory named "documents" using the `mkdir documents` command.
 
-**IV. Change Directory**
+* **Change Directory:**
 
-Navigate into the newly created "documents" directory using the `cd documents` command.
+  Navigate into the newly created "documents" directory using the `cd documents` command.
 
-**V. Create a Text File**
+* **Create a Text File:**
 
-Create a new text file named "test.txt" within the "documents" directory using the `touch test.txt` command.
+  Create a new text file named "test.txt" within the "documents" directory using the `touch test.txt` command.
 
-**VI. Verify File Existence**
+* **Verify File Existence:**
 
-Use the `ls` command again to confirm the presence of the "test.txt" file in the current directory.
+  Use the `ls` command again to confirm the presence of the "test.txt" file in the current directory.
 
-**VII. Delete the Text File**
+* **Delete the Text File:**
 
-Delete the "test.txt" file using the `rm test.txt` command. Be cautious when using `rm`, as deleted files are typically unrecoverable.
+  Delete the "test.txt" file using the `rm test.txt` command. Be cautious when using `rm`, as deleted files are typically unrecoverable.
 
-**VIII. Navigate Back to Home Directory**
+* **Navigate Back to Home Directory:**
 
-Return to your home directory using the `cd ..` command. The double dots (`..`) represent the parent directory of the current location.
+  Return to your home directory using the `cd ..` command. The double dots (`..`) represent the parent directory of the current location.
 
-**IX. Delete the Directory**
+* **Delete the Directory:**
 
-Finally, delete the "documents" directory using the `rmdir documents` command. Remember that `rmdir` only works on empty directories; remove any files within "documents" first if necessary.
+  Finally, delete the "documents" directory using the `rmdir documents` command. Remember that `rmdir` only works on empty directories; remove any files within "documents" first if necessary.
 
 ## Skills Tested
 
