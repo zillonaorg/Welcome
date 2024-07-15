@@ -1,116 +1,48 @@
-# Welcome to the [Zillona.org](https://www.zillona.org) Dojo
+# Welcome to the home of [Zillona Org](https://www.zillona.org) on GitHub 
 
-## Weekly Dojo Schedule
+## What is Zillona Org?
 
-```
-                                  ## ALL TIMES CST ##
+**Advanced Technology at Human Scale**
 
-           SUN       MON        TUE       WED        THU        FRI       SAT
-12pm    |----------------------------------------------------------------------|
-        |       | SCRUM*     |       | SCRUM*     |       | SCRUM*     |       |
-12:30pm |----------------------------------------------------------------------|
-        |       | Open       |       | Open       |       | Open       |       |
-        |       | Discussion |       | Discussion |       | Discussion |       |
-5:30pm  |----------------------------------------------------------------------|
-        |       | Skills**   |       | Skills**   |       |            |       |
-        |       | Building   |       | Building   |       |            |       |
-        |----------------------------------------------------------------------|
-
-*  All projects
-** Topics will be announced here weekly
-
-Monday Skills Topic: MONTH/DAY - Topic for discussion or demonstration
-Wednesday Skills Topic: MONTH/DAY - Topic for discussion or demonstration
-```
+Zillona is more than a technology company, it is a global collective of 
+professionals and enthusiasts that come together to advance important technology 
+projects.
+As an organization we leverage the best of modern tools and processes to
+collaborate effectively and transparently on projects big and small.
 
 ## Currently Active Projects
 
-### Zillona 
+### [Zillona Container Orchestration](orchestration.md)
 
-Our flagship project that other projects rely upon for infrastructure. \
-Focus: Kubernetes hosting and administration with the use of Terraform, Ansible 
-and automation pipelines for deployment and configuration.
+Our flagship project that other projects rely upon for infrastructure.
+
+Focus: Kubernetes hosting and administration with the use of "Infrastructure as
+Code" (Terraform), "Change Management" (Ansible) and industry leading 
+best-practices in DevOps for cluster lifecycle management
+
 * Slack: https://zillona.slack.com/channels/zillona
 * Jira: https://zillona.atlassian.net/jira/core/projects/ZIL/board
 * Git project: https://github.com/orgs/zillonaorg/
 * Website: https://www.zillona.org
 
-### NerdsPlayDnD ( See also: dnddevops, tabletech )
+### [TableTech](tabletech.md)
 
-Hosting of FoundryVTT and related technologies. \
+Hosting of Foundry Virtual Table Top and development of related technologies.
+
 Focus: NodeJS, JSON, Docker, production service hosting
+
 * Slack: https://zillona.slack.com/channels/nerdsplaydnd
 * Jira: https://zillona.atlassian.net/jira/core/projects/NPD/board
 * Git project: https://gitlab.com/nerdsplaydnd
 * FoundryVTT: https://zillona.nerdsplaydnd.com
 
-### Zillona Org Dojo
+### [Zillona Dojo](dojo.md)
 
-Learning and refinement of core skills and technologies. \
-Focus: Linux, Git, Docker, Kubernetes, programming and DevOps skills.
+Learning and refinement of core skills and technologies.
+
+Focus: Linux, Git, Docker, cloud, DevOps and coding skills
+
 * Slack: https://zillona.slack.com/channels/dojo
 * Jira: https://zillona.atlassian.net/jira/core/projects/DOJ/board
 * Git project: https://github.com/orgs/zillonaorg/projects/1
 * Website: https://www.zillona.org/dojo
-
-## Skills progression in the Dojo
-
-**Things to Know & Things to Learn**
-
-Please see our [skills tree](docs/skill_tree.md) for skill progression 
-information and links.
-
-## Getting started
-
-# Editing this README
-
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). 
-
-## Markdown Help
-
-Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template and [cheat sheet](https://www.markdownguide.org/cheat-sheet/). \
-Please reference the official [GitHub](https://github.com) Markdown [style guide](https://google.github.io/styleguide/docguide/style.html) when editing.
-
-## Suggestions for a good README
-
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
