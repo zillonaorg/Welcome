@@ -2,18 +2,58 @@ Return to [README](../README.md) \
 Return to [skill tree](skill_tree.md)
 
 # Linux Exercise
-Markdown
-**Task:**
 
-In the terminal, navigate to the user's home directory (cd ~).
-List the contents of the home directory using the ls command.
-Create a new directory called "documents" (use mkdir documents).
-Change directory into the "documents" directory (cd documents).
-Create a new text file called "test.txt" (use touch test.txt).
-Verify the existence of "test.txt" using ls.
-Delete the "test.txt" file (use rm test.txt).
-Navigate back to the home directory (cd ..).
-Delete the "documents" directory (use rmdir documents).
+## Markdown
 
-**Skills Tested:** Basic navigation commands (cd), listing directories (ls), creating directories (mkdir), creating files (touch), deleting files (rm), and deleting directories (rmdir).
+This document outlines a series of basic Linux commands you'll practice.
 
+## Task
+
+**I. Navigate to the Home Directory**
+
+Begin by navigating to your user's home directory using the `cd ~` command. This tilde symbol (`~`) represents a shortcut to your home directory.
+
+**II. List Directory Contents**
+
+Use the `ls` command to list the contents of the current directory, which should be your home directory at this point.
+
+**III. Create a New Directory**
+
+Create a new directory named "documents" using the `mkdir documents` command.
+
+**IV. Change Directory**
+
+Navigate into the newly created "documents" directory using the `cd documents` command.
+
+**V. Create a Text File**
+
+Create a new text file named "test.txt" within the "documents" directory using the `touch test.txt` command.
+
+**VI. Verify File Existence**
+
+Use the `ls` command again to confirm the presence of the "test.txt" file in the current directory.
+
+**VII. Delete the Text File**
+
+Delete the "test.txt" file using the `rm test.txt` command. Be cautious when using `rm`, as deleted files are typically unrecoverable.
+
+**VIII. Navigate Back to Home Directory**
+
+Return to your home directory using the `cd ..` command. The double dots (`..`) represent the parent directory of the current location.
+
+**IX. Delete the Directory**
+
+Finally, delete the "documents" directory using the `rmdir documents` command. Remember that `rmdir` only works on empty directories; remove any files within "documents" first if necessary.
+
+## Skills Tested
+
+This exercise tests your understanding of:
+
+* Basic navigation commands (cd)
+* Listing directory contents (ls)
+* Creating directories (mkdir)
+* Creating files (touch)
+* Deleting files (rm)
+* Deleting directories (rmdir)
+
+By successfully completing these tasks, you'll gain a solid foundation for working with directories and files in the Linux terminal.
