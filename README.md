@@ -50,7 +50,7 @@ tail live logs of server events.
 
 `mkdocs serve`
 
-Go to [localhost](127.0.0.1:8000) in your browser to view your website in 
+Go to [localhost](http://127.0.0.1:8000) in your browser to view your website in 
 real-time while you edit
 
 When you are happy with your contribution add, commit and push your changes to 
