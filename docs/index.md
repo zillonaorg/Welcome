@@ -10,7 +10,11 @@ projects.
 As an organization we leverage the best of modern tools and processes to
 collaborate effectively and transparently on projects big and small.
 
+Please visit our GitHub at
+[github.com/zillonaorg](https://github.com/zillonaorg)
+
 ## Currently Active Projects
+
 
 ### [Zillona Container Orchestration](orchestration.md)
 

@@ -9,7 +9,8 @@ existing skills and master the core skills needed to collaborate effectively on
 modern technology projects and at the highest levels of the tech industry. 
 
 Dojo membership has multiple tracks for involvement and advancement
-  * Basic dojo membership
+
+  * Dojo membership
   * Internship
   * Apprenticeship
   * Zillona Org membership
