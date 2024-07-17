@@ -1,80 +1,58 @@
 # Zillona Org
 
-This repository is home to the source documentation for Zillona Org, the Zillona
+This repository is home to the documentation source for Zillona Org, the Zillona
 Dojo and associated projects.
 
-We generate the documentation site https://zillonaorg.github.io from this source
-using mkdocs.
+We generate the organizations documentation site https://zillonaorg.github.io 
+from this source using mkdocs.
 
 Read the [docs](https://zillonaorg.github.io)
 
 ## Getting started
 
-To make it easy for you to get started with Git, here's a list of recommended next steps.
+Please see our [contributing guide](https://zillonaorg.github.io/contributing/)
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+Clone this repository 
 
-## Add your files
+`git clone https://github.com/zillonaorg/Welcome.git`
+`cd ./Welcome`
 
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+Make a new branch for your work where _<new_branch>_ is your new branch name.
 
-```
-cd existing_repo
-git remote add origin https://github.com/zillonaorg/Welcome.git
-git branch -M develop
-git push -uf origin develop
-```
+`git checkout -b <new_branch> --track develop`
 
+If you need git help, please see our 
+[beginners git exercise](https://zillonaorg.github.io/git_exercise-1/)
 
-# Editing this README
+This project uses Markdown language for documentation formatting.
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
+Refer to [markdownguide.org](https://www.markdownguide.org/) for basic syntax 
+and a cheat sheet for your quick reference.
 
-## Markdown Help
+Please reference the official GitHub Markdown 
+[style guide](https://google.github.io/styleguide/docguide/style.html) 
+when editing.
 
-Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template and [cheat sheet](https://www.markdownguide.org/cheat-sheet/). \
-Please reference the official [GitHub](https://github.com) Markdown [style guide](https://google.github.io/styleguide/docguide/style.html) when editing.
+Install [mkdocs](https://www.mkdocs.org/)
 
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+  * Using the Debian package repositories
 
-## Name
-Choose a self-explaining name for your project.
+`sudo apt install mkdocs`
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+  * With pip
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+`pip3 install mkdocs`
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+In another terminal run mkdocs server inside your git checkout. Navigate to your
+local copy of the repository in a new terminal and run the mkdocs web server to
+tail live logs of server events.
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+`mkdocs serve`
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+Go to [localhost](127.0.0.1:8000) in your browser to view your website in 
+real-time while you edit
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
-
+When you are happy with your contribution add, commit and push your changes to 
+this repository and create a 
+[pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+to merge to the develop branch.
