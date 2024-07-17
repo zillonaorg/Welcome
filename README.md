@@ -15,6 +15,7 @@ Please see our [contributing guide](https://zillonaorg.github.io/contributing/)
 Clone this repository 
 
 `git clone https://github.com/zillonaorg/Welcome.git`
+
 `cd ./Welcome`
 
 Make a new branch for your work where _<new_branch>_ is your new branch name.
