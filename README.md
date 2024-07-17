@@ -10,7 +10,7 @@ Read the [docs](https://zillonaorg.github.io)
 
 ## Getting started
 
-Please see our [contributing guide](https://zillonaorg.github.io/contributing/)
+Please see our [contributing](https://zillonaorg.github.io/contributing/) guide
 
 Clone this repository 
 
@@ -34,19 +34,18 @@ Please reference the official GitHub Markdown
 [style guide](https://google.github.io/styleguide/docguide/style.html) 
 when editing.
 
-Install [mkdocs](https://www.mkdocs.org/)
+Install [mkdocs](https://www.mkdocs.org/) from either 
 
-  * Using the Debian package repositories
+  * the Debian package repositories
 
 `sudo apt install mkdocs`
 
-  * With pip
+  * or with pip
 
 `pip3 install mkdocs`
 
-In another terminal run mkdocs server inside your git checkout. Navigate to your
-local copy of the repository in a new terminal and run the mkdocs web server to
-tail live logs of server events.
+Navigate to your local copy of the repository in a new terminal and run the 
+mkdocs web server to tail live logs of server events.
 
 `mkdocs serve`
 
@@ -57,3 +56,23 @@ When you are happy with your contribution add, commit and push your changes to
 this repository and create a 
 [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 to merge to the develop branch.
+
+## Deploying Documentation Website
+
+The documentation website at
+[zillonaorg.github.io](https://zillonaorg.github.io) is built from the contents
+of this repository usng mkdocs as follows.
+
+Check out both this repository as well as the zillonaorg.github.io 
+[repository](https://github.com/zillonaorg/zillonaorg.github.io) in the same 
+directory and follow the steps below.
+
+```
+cd ./Welcome/
+mkdocs build -s
+cp ./site/* ../zillonaorg.github.io
+cd ../zillonaorg.github.io/
+git add *
+git commit
+git push
+```
