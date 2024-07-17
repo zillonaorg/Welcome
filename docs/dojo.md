@@ -1,12 +1,6 @@
-## Prerequisite Skills
-## Initial skills
-## Core Skills
-## Intermediate Skills
-## Advanced Skills
+# Welcome to the [Zillona Dojo](https://www.zillona.org/dojo)
 
-# Welcome to the GitHub home of the [Zillona Dojo](https://www.zillona.org/dojo)
-
-## What is the Zillona Dojo?
+## What is Zillona Dojo?
 
 The "Dojo" is the public facing, open source community of Zillona Org.
 
@@ -24,15 +18,15 @@ Dojo membership has multiple tracks for involvement and advancement
 
 **Things to Know & Things to Learn**
 
-Please see our [skill tree](docs/skill_tree.md) for skill progression 
+Please see our [skill tree](skill_tree.md) for skill progression 
 information and links.
 
 ## Getting started
 
-**Basic Dojo Member:** The "easiest" way to gain general membership is to
+**Dojo Member:** The "easiest" way to gain general membership is to
 gain the endorsement of a current member in good standing. If a current member
 assists you in preparing a demonstration of the requisite skills defined in the
-[skill tree](docs/skill_tree.md) and provides their endorsement, you qualify
+[skill tree](skill_tree.md) and provides their endorsement, you qualify
 for membership in the dojo.
 
 **Intern:** Internships are granted to promissing dojo members who wish to
@@ -57,6 +51,6 @@ Completion of Aprenticeship requires and comes with
 
 **Zillona Org Member:**
 
-**Grey Beard:** Leaders in our community due to their proven skills and track 
+**Associate:** Leaders in our community due to their proven skills and track 
 record in the industry and willingness to share and mentor.
 

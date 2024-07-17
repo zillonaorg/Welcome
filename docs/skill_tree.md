@@ -1,9 +1,7 @@
-Return [home](../README.md)
-Return to [Dojo](../dojo.md)
-
 # Skill Tree Progression
 
-Follow the DevOps roadmap at https://roadmap.sh/devops to get a high-level idea of our skills roadmap. \
+Follow the DevOps roadmap at https://roadmap.sh/devops to get a high-level idea of our skills roadmap. 
+
 For details of our internal path see the skill tree below.
 
 ## Notes for Contributors to this document
