@@ -102,9 +102,22 @@ skills are validated after which the apprenticeship can be added to your resume
 and an endorsement from Zillona Org will be provided as well as validation of 
 your status of having successful completed the apprenticeship.
 
-**Zillona Org Member:** Zillona Org members have a direct affiliation with the
-Zillona Org. As such they have 
+**Zillona Org Member:** Zillona Org members have a direct affiliation with 
+Zillona Org. As such they have broader and deeper access to Zillona Org
+resources and decision making.
 
-**Associate:** Leaders in our community due to their proven skills and track 
-record in the industry and willingness to share and mentor.
+Zillona Org members provide oversite for the Dojo and other Zillona projects and 
+have voting rights within the organization.
+
+Not all Dojo members will become Zillona Org members and not all Zillona Org
+members participate in the Dojo. 
+
+**Associate:** Associate status is used for contributors with non-technical
+backgrounds such as SEO, marketing, and social media management, as well as 
+talent from the industry not otherwise affiliated with Zillona Org and 
+collaborating in a limited scope such as giving a seminar or providing 
+consultation services.
+
+Associate roles are available to leaders in the broader community with proven 
+skills and a track record of willingness to share and mentor.
 
