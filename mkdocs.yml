@@ -7,3 +7,5 @@ nav:
 theme:
   name: mkdocs
   locale: en
+  color_mode: auto
+  nav_style: dark
