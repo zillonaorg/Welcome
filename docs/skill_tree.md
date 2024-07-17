@@ -6,16 +6,16 @@ For details of our internal path see the skill tree below.
 
 ## Notes for Contributors to this document
 
-  * Link useful resources for each skill
-  * Please vet 3rd party tutorials and prefer official tutorials where prudent
-  * Try to order links as follows
-    1. Official upstream project documentation
-    1. Style guide if applicable
-    1. Certification link if applicable
-    1. Official registry or repository if applicable
-    1. Official tutorials and examples
-    1. 3rd party tutorials and examples
-    1. Internal exercises and presentations
+ * Link useful resources for each skill
+ * Please vet 3rd party tutorials and prefer official tutorials where prudent
+ * Try to order links as follows
+   1. Official upstream project documentation
+   1. Style guide if applicable
+   1. Certification link if applicable
+   1. Official registry or repository if applicable
+   1. Official tutorials and examples
+   1. 3rd party tutorials and examples
+   1. Internal exercises and presentations
 
 ## Prerequisite Skills
 
@@ -23,36 +23,34 @@ Things to know before you get involved.
 
 ### Navigate Linux filesystem
 
-  * [Ubuntu tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-  * [Dojo Linux exercise #1](linux_exercise-1.md)
+ * [Ubuntu tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+ * [Dojo Linux exercise #1](linux_exercise-1.md)
 
 ### Edit local files
 
-  * [Ubuntu tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-  * [Dojo Linux exercise #2](linux_exercise-2.md)
+ * [Ubuntu tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+ * [Dojo Linux exercise #2](linux_exercise-2.md)
 
 ### Basic git usage.
 
-  * [Official beginers guide](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
-  * [GitHub command examples](https://docs.github.com/en/get-started/using-git/about-git#github-and-the-command-line)
-  * [Dojo git exercise #1](git_exercise-1.md)
+ * [Official beginers guide](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
+ * [GitHub command examples](https://docs.github.com/en/get-started/using-git/about-git#github-and-the-command-line)
+ * [Dojo git exercise #1](git_exercise-1.md)
 
 ## Initial skills
 
-**TODO - Link internal exercises and beginner tutorials for the skills below**
-
 Usually these skills are built and validated by a current member reaching out to help guide the learning process.
 
-* Install a local Debian VM on the workstation.
-* Install cli tools and dependency packages (Vim, git, curl, etc)
-* Vim ("Stateful" editing / editing modes) (( `:w` is `git commit`, `:q` is `git push` ))
-* Create change branch from "dev" and edit Markdown README.md file in Welcome repo 
-* Add, commit, push and merge changes to dev and validate changes
-* HTML editing
-* Install nginx in the VM
-* Bash scripting (Save install steps)
-* Configure nginx from the CLI
-* Install Docker on the VM
+ * Install a local Debian VM on the workstation.
+ * Install cli tools and dependency packages (Vim, git, curl, etc)
+ * Vim ("Stateful" editing / editing modes) (( `:w` is `git commit`, `:q` is `git push` ))
+ * Create change branch from "dev" and edit Markdown README.md file in Welcome repo 
+ * Add, commit, push and merge changes to dev and validate changes
+ * HTML editing
+ * Install nginx in the VM
+ * Bash scripting (Save install steps)
+ * Configure nginx from the CLI
+ * Install Docker on the VM
 
 ## Core Skills
 
