@@ -1,6 +1,3 @@
-Return to [README](../README.md) \
-Return to [skill tree](skill_tree.md)
-
 # Docker Lifecycle Exercise
 
 Explore published docker images at https:///hub.docker.com, pull and modify upstream Dockerfiles, build, run and push local images to a private repository.

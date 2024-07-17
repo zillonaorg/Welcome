@@ -1,13 +1,12 @@
-Return to [README](../README.md)
-
 # Skill Tree Progression
 
-Follow the DevOps roadmap at https://roadmap.sh/devops to get a high-level idea of our skills roadmap. \
+Follow the DevOps roadmap at https://roadmap.sh/devops to get a high-level idea of our skills roadmap. 
+
 For details of our internal path see the skill tree below.
 
-## Notes for Contributors
+## Notes for Contributors to this document
 
-  * Link useful resources for each skill in this document
+  * Link useful resources for each skill
   * Please vet 3rd party tutorials and prefer official tutorials where prudent
   * Try to order links as follows
     1. Official upstream project documentation
@@ -38,7 +37,7 @@ Things to know before you get involved.
   * [GitHub command examples](https://docs.github.com/en/get-started/using-git/about-git#github-and-the-command-line)
   * [Dojo git exercise #1](git_exercise-1.md)
 
-## Initial skills: "Getting Padawan'd in"
+## Initial skills
 
 **TODO - Link internal exercises and beginner tutorials for the skills below**
 
@@ -170,3 +169,12 @@ The core technology at the heart of the Zillona project
   * [Helm style guide](https://helm.sh/docs/chart_template_guide/yaml_techniques/)
   * [CKA certification](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 
+### Cloud engineering
+
+Understanding the principles of cloud computing, common services and core
+concepts.
+
+  * Amazon Web Services
+  * Google Compute Platform
+  * Microsoft Azure
+  * Open Stack

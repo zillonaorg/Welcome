@@ -1,70 +1,34 @@
-# Welcome to the [Zillona.org](https://www.zillona.org) Dojo
+# Zillona Org
 
-## Weekly Dojo Schedule
+This repository is home to the source documentation for Zillona Org, the Zillona
+Dojo and associated projects.
 
-```
-                                  ## ALL TIMES CST ##
+We generate the documentation site https://zillonaorg.github.io from this source
+using mkdocs.
 
-           SUN       MON        TUE       WED        THU        FRI       SAT
-12pm    |----------------------------------------------------------------------|
-        |       | SCRUM*     |       | SCRUM*     |       | SCRUM*     |       |
-12:30pm |----------------------------------------------------------------------|
-        |       | Open       |       | Open       |       | Open       |       |
-        |       | Discussion |       | Discussion |       | Discussion |       |
-5:30pm  |----------------------------------------------------------------------|
-        |       | Skills**   |       | Skills**   |       |            |       |
-        |       | Building   |       | Building   |       |            |       |
-        |----------------------------------------------------------------------|
-
-*  All projects
-** Topics will be announced here weekly
-
-Monday Skills Topic: MONTH/DAY - Topic for discussion or demonstration
-Wednesday Skills Topic: MONTH/DAY - Topic for discussion or demonstration
-```
-
-## Currently Active Projects
-
-### Zillona 
-
-Our flagship project that other projects rely upon for infrastructure. \
-Focus: Kubernetes hosting and administration with the use of Terraform, Ansible 
-and automation pipelines for deployment and configuration.
-* Slack: https://zillona.slack.com/channels/zillona
-* Jira: https://zillona.atlassian.net/jira/core/projects/ZIL/board
-* Git project: https://github.com/orgs/zillonaorg/
-* Website: https://zilona.org
-
-### NerdsPlayDnD ( See also: dnddevops, tabletech )
-
-Hosting of FoundryVTT and related technologies. \
-Focus: NodeJS, JSON, Docker, production service hosting
-* Slack: https://zillona.slack.com/channels/nerdsplaydnd
-* Jira: https://zillona.atlassian.net/jira/core/projects/NPD/board
-* Git project: https://gitlab.com/nerdsplaydnd
-* FoundryVTT: https://zillona.nerdsplaydnd.com
-
-### Zillona Org Dojo
-
-Learning and refinement of core skills and technologies. \
-Focus: Linux, Git, Docker, Kubernetes, programming and DevOps skills.
-* Slack: https://zillona.slack.com/channels/dojo
-* Jira: https://zillona.atlassian.net/jira/core/projects/DOJ/board
-* Git project: https://github.com/orgs/zillonaorg/projects/1
-* Website: https://www.zillona.org/dojo
-
-## Skills progression in the Dojo
-
-**Things to Know & Things to Learn**
-
-Please see our [skills tree](docs/skill_tree.md) for skill progression 
-information and links.
+Read the [docs](https://zillonaorg.github.io)
 
 ## Getting started
 
+To make it easy for you to get started with Git, here's a list of recommended next steps.
+
+Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+
+## Add your files
+
+- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+
+```
+cd existing_repo
+git remote add origin https://github.com/zillonaorg/Welcome.git
+git branch -M develop
+git push -uf origin develop
+```
+
+
 # Editing this README
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). 
+When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
 
 ## Markdown Help
 
@@ -72,7 +36,6 @@ Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template and 
 Please reference the official [GitHub](https://github.com) Markdown [style guide](https://google.github.io/styleguide/docguide/style.html) when editing.
 
 ## Suggestions for a good README
-
 Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
 
 ## Name
@@ -114,3 +77,4 @@ For open source projects, say how it is licensed.
 
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+
