@@ -1,4 +1,4 @@
-# Welcome to the [Zillona Org](https://www.zillona.org) Documentation Project
+# [Zillona Org](https://www.zillona.org) Documentation Project
 
 ## What is Zillona Org?
 
@@ -12,7 +12,8 @@ collaborate effectively and transparently on projects big and small.
 
 Please visit our official website at [zillona.org](https://www.zillona.org/)
 
-Visit our GitHub at [github.com/zillonaorg](https://github.com/zillonaorg/)
+Visit our GitHub organization at 
+[github.com/zillonaorg](https://github.com/zillonaorg/)
 
 ## Projects
 
