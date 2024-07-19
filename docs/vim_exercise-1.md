@@ -1,4 +1,63 @@
-## Using the Vim Editor in Linux
+# Vim Exercise
+
+## Get hands on with VIM
+
+This exercise will guide you through basic VIM commands for editing text files.
+
+### Task
+
+* **Create a File:**
+
+  Open a terminal and navigate to your desired directory. Create a new file named `practice.txt` using VIM: `vi practice.txt`
+
+* **Enter Insert Mode:**
+
+  Press the `i` key to enter insert mode. Notice the `-- INSERT --` indicator at the bottom of the screen. Type a few sentences or lines of text.
+
+* **Exit Insert Mode:**
+
+  Press the `Esc` key to exit insert mode.
+
+* **Navigation:**
+
+  Use the arrow keys to move the cursor around the text. Try these commands for faster navigation:
+  * `h` (left), `j` (down), `k` (up), `l` (right)
+  * `w` (next word), `b` (previous word)
+  * `0` (beginning of line), `$` (end of line)
+
+* **Editing:**
+
+  * **Deleting:**
+    * `x` deletes the character under the cursor.
+    * `dw` deletes a word.
+    * `dd` deletes an entire line.
+  * **Copying/Pasting:**
+    * `yy` copies (yanks) a line.
+    * `p` pastes the copied content below the current line.
+  * **Undo/Redo:**
+    * `u` undoes the last action.
+    * `Ctrl-r` redoes the last undone action.
+
+* **Saving and Exiting:**
+
+  * **Saving:**
+    * Type `:w` and press Enter to save the changes.
+  * **Exiting:**
+    * Type `:q` and press Enter to quit VIM if you've saved changes.
+    * Type `:q!` and press Enter to quit without saving changes.
+
+### Skills Practiced
+
+This exercise introduces you to:
+
+* Opening and creating files with VIM
+* Entering and exiting insert mode
+* Basic navigation commands
+* Essential editing commands (deleting, copying, pasting, undo/redo)
+* Saving and exiting VIM
+
+By practicing these commands, you'll start building a foundation for efficient text editing in VIM.
+
 
 ### Official Resources
 
