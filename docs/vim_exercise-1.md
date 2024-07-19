@@ -1,6 +1,6 @@
-# Using the Vim Editor in Linux
+# Vim Exercise
 
-## Get hands-on with VIM
+## Get hands on with VIM
 
 This exercise will guide you through basic VIM commands for editing text files.
 
@@ -8,7 +8,7 @@ This exercise will guide you through basic VIM commands for editing text files.
 
 * **Create a File:**
 
-  Open a terminal and navigate to your desired directory. Create a new file named `practice.txt` using VIM: `vim practice.txt`
+  Open a terminal and navigate to your desired directory. Create a new file named `practice.txt` using VIM: `vi practice.txt`
 
 * **Enter Insert Mode:**
 
