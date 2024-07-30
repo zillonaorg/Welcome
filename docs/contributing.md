@@ -1,1 +1,1 @@
-foo
+Contributing

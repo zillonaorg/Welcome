@@ -1,3 +1,19 @@
+# Initial Skills
+
+## Install Debian VM
+
+## Install tools
+
+  * mkdocs
+  * git
+  * docker
+  * vim
+
+## Pull code from Github
+
+## Install Nginx
+
+## Install Docker Engine
                                                                                  
 ## Markdown Help                                                                 
                                                                                  
