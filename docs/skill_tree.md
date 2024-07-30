@@ -48,9 +48,7 @@ Dojo projects.
   * Install a Debian VM on your development workstation.
   * Install cli tools and dependency packages (vim, git, curl, etc)
   * Bash scripting (Save install steps)
-  * Create branch from "develop" branch of this repo and edit documentation Markdown 
-  * Add, commit, and push changes to your new branch
-  * Validate changes to repository and create merge request to develop branch
+  * [Contribute to the Documentation Project](/initial_skills/#contribute-to-the-documentation-project)
   * Install nginx in the VM
   * Configure nginx from the CLI
   * Install Docker on the VM
