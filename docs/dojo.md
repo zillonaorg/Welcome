@@ -1,5 +1,7 @@
 # Welcome to the [Zillona Dojo](https://www.zillona.org/dojo)
 
+**Doing the do. Doing it well.**
+
 ## What is Zillona Dojo?
 
 The "Dojo" is the public facing, open source community of Zillona Org.
@@ -32,13 +34,13 @@ information and links.
 
 ## Membership Types
 
-Dojo membership has multiple tracks for involvement and advancement
+Dojo members have multiple tracks for involvement and advancement
 
  * Dojo membership
  * Internship
  * Apprenticeship
  * Zillona Org membership
- * Associate
+ * Association
 
 **Dojo Member:** Dojo membership is a blanket term for contributors of all skill
 levels and advancement tracks. Prospective members must demonstrate basic
@@ -112,12 +114,11 @@ have voting rights within the organization.
 Not all Dojo members will become Zillona Org members and not all Zillona Org
 members participate in the Dojo. 
 
-**Associate:** Associate status is used for contributors with non-technical
-backgrounds such as SEO, marketing, and social media management, as well as 
-talent from the industry not otherwise affiliated with Zillona Org and 
-collaborating in a limited scope such as giving a seminar or providing 
-consultation services.
+**Associate:** Association status is used for contributors from the industry 
+collaborating in a limited scope such as giving seminars or providing other
+professional services but not otherwise affiliated with Zillona Org. Associates
+also include contributors with non-technical backgrounds such as SEO, marketing, 
+and social media management, as well as other complimentary talents.
 
 Associate roles are available to leaders in the broader community with proven 
 skills and a track record of willingness to share and mentor.
-
