@@ -7,8 +7,8 @@ For details of our internal path see the skill tree below.
 
 ## Notes for Contributors to this document
 
-  * Link useful resources for each skill
-  * Please vet 3rd party tutorials and prefer official tutorials where prudent
+  * Link useful resources for each skill below
+  * Regularly vet 3rd party tutorials and prefer official tutorials where prudent
   * Create exercises linking to existing documentation for complex tasks
   * Try to order links as follows
     1. Official upstream project documentation
@@ -33,7 +33,7 @@ Things to know before you get involved.
   * [Ubuntu tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
   * [Dojo Vim exercise #1](vim_exercise-1.md)
 
-**Basic git usage**
+**Basic Git usage**
 
   * [Official beginers guide](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
   * [GitHub command examples](https://docs.github.com/en/get-started/using-git/about-git#github-and-the-command-line)
@@ -43,22 +43,23 @@ Things to know before you get involved.
 
 Set up your development environment and gain confidence with the tools and 
 skills outlined in this section to get started and become involved with Zillona 
-Org projects.
+Dojo projects.
 
   * Install a Debian VM on your development workstation.
-  * Install cli tools and dependency packages (Vim, git, curl, etc)
-  * Vim ("Stateful" editing / editing modes) (( `:w` is `git commit`, `:q` is `git push` ))
-  * Create change branch from "dev" and edit Markdown README.md file in Welcome repo 
-  * Add, commit, push and merge changes to dev and validate changes
-  * HTML editing
-  * Install nginx in the VM
+  * Install cli tools and dependency packages (vim, git, curl, etc)
   * Bash scripting (Save install steps)
+  * Create branch from "develop" branch of this repo and edit documentation Markdown 
+  * Add, commit, and push changes to your new branch
+  * Validate changes to repository and create merge request to develop branch
+  * Install nginx in the VM
   * Configure nginx from the CLI
   * Install Docker on the VM
+  * Pull nginx Docker container for local validation
 
 ## Core Skills
 
-These are the most important and fundamental skills to develop as a newly initiated member of the Dojo.
+These are the most important and fundamental skills to develop as a newly 
+initiated member of the Dojo.
 
 **Linux**
 
@@ -127,6 +128,10 @@ Refer to the [DevOps roadmap](https://roadmap.sh/devops) to get your bearings.
 
   * [Official documentation](https://nodejs.org/docs/latest/api/documentation.html)
   * [Google style guide](https://google.github.io/styleguide/jsguide.html)
+
+**Java**
+
+  * [Dojo Java Troubleshooting](java_troubleshooting.md)
 
 **Terraform**
 

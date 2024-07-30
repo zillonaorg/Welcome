@@ -1,9 +1,10 @@
 site_name: Zillona Org
 nav:
+  - Featured: featured.md
   - Container Orchestration: orchestration.md
   - TableTech: tabletech.md
   - Dojo: dojo.md
-  - Skill Tree: skill_tree.md
+# - Skill Tree: skill_tree.md
 theme:
   name: mkdocs
   locale: en

@@ -2,7 +2,7 @@
 
 This repository is home to the documentation source for 
 [Zillona Org](https://www.zillona.org/) as well as the 
-[Zillona Dojo](https://www.zillona.org/dojo/) and associated projects.
+[Zillona Dojo](https://dojo.zillona.org/) and associated projects.
 
 We generate the organization's documentation site 
 [zillonaorg.github.io](https://zillonaorg.github.io) from this source repository 
