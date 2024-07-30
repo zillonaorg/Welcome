@@ -1,4 +1,4 @@
-# Welcome to the [Zillona Dojo](https://www.zillona.org/dojo)
+# Welcome to the [Zillona Dojo](https://dojo.zillona.org/)
 
 **Doing the do. Doing it well.**
 
@@ -23,7 +23,7 @@ to the other members and arrange for your access to our tools and resources.
  * Git project: 
  [github.com/orgs/zillonaorg/projects/dojo](https://github.com/orgs/zillonaorg/projects/1)
  * Website: 
- [zillona.org/dojo](https://www.zillona.org/dojo)
+ [dojo.zillona.org](https://dojo.zillona.org/)
 
 ## Skill progression in the Dojo
 

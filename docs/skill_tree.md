@@ -131,7 +131,7 @@ Refer to the [DevOps roadmap](https://roadmap.sh/devops) to get your bearings.
 
 **Java**
 
-  * [Dojo Java exercise #1](java_exercise-1.md)
+  * [Dojo Java Troubleshooting](java_troubleshooting.md)
 
 **Terraform**
 
