@@ -45,13 +45,13 @@ Set up your development environment and gain confidence with the tools and
 skills outlined in this section to get started and become involved with Zillona 
 Dojo projects.
 
-  * Install a Debian VM on your development workstation.
-  * Install cli tools and dependency packages (vim, git, curl, etc)
+  * Install a [Debian VM](/initial_skills/#install-debian-vm) on your development workstation.
+  * Install cli tools and dependency packages (mkdocs, vim, git, curl, etc)
   * Bash scripting (Save install steps)
   * [Contribute to the Documentation Project](/initial_skills/#contribute-to-the-documentation-project)
-  * Install nginx in the VM
+  * [Install nginx](/initial_skills/#install-nginx) in the VM
   * Configure nginx from the CLI
-  * Install Docker on the VM
+  * [Install Docker](/initial_skills/#install-docker-engine) on the VM
   * Pull nginx Docker container for local validation
 
 ## Core Skills
