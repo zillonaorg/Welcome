@@ -7,7 +7,7 @@ measure and understand the internal state of an application through its external
 outputs, such as metrics, profiler captures and logs. For Java applications,
 effective observability involves a broad range of topics, including memory
 management, thread behavior, performance metrics, error tracking, and system
-resource usage. This guide attempts to provides a comprehensive overview of
+resource usage. This guide attempts to provide a comprehensive overview of
 these topics to help you monitor and analyze Java applications effectively.
 
 ## Memory Management and Garbage Collection
