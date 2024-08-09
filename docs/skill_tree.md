@@ -5,7 +5,7 @@ get a high-level idea of our skills roadmap.
 
 For details of our internal path see the skill tree below.
 
-## Notes for Contributors to This Document
+## Notes for Contributors to this document
 
   * Link useful resources for each skill below
   * Regularly vet 3rd party tutorials and prefer official tutorials where prudent
@@ -25,7 +25,7 @@ Things to know before you get involved.
 
 **Navigate Linux filesystem**
 
-  * [Linux terminal](https://www.digitalocean.com/community/tutorials/an-introduction-to-the-linux-terminal)
+  * [Ubuntu tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
   * [Dojo Linux exercise #1](linux_exercise-1.md)
 
 **Edit local files**
@@ -45,7 +45,7 @@ Set up your development environment and gain confidence with the tools and
 skills outlined in this section to get started and become involved with Zillona 
 Dojo projects.
 
-  * Install a [Linux VM](/initial_skills/#install-debian-vm) on your development workstation.
+  * Install a [Debian VM](/initial_skills/#install-debian-vm) on your development workstation.
   * Install cli tools and dependency packages (mkdocs, vim, git, curl, etc)
   * Bash scripting (Save install steps)
   * [Contribute to the Documentation Project](/initial_skills/#contribute-to-the-documentation-project)

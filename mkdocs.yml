@@ -5,7 +5,6 @@ nav:
   - TableTech: tabletech.md
   - Dojo: dojo.md
 # - Skill Tree: skill_tree.md
-  - Index: all.md
 theme:
   name: mkdocs
   locale: en

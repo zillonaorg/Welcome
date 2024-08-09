@@ -11,7 +11,7 @@ As an organization we leverage the best of modern tools and processes to
 collaborate effectively and transparently on projects big and small.
 
 Please visit our official website at [zillona.org](https://www.zillona.org/)
-or visit us on GitHub at 
+and our GitHub organization at 
 [github.com/zillonaorg](https://github.com/zillonaorg/)
 
 ## Projects
