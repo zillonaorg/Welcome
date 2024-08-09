@@ -3,23 +3,14 @@
 Get started by setting up your development environment and contributing to the 
 Zillona Org documentation project.
 
-## Create Linux Virtual Machine
+## Install Debian VM
 
-**Access a Debian Virtual Machine**
+## Install Necessary Packages
 
-## Install Packages and Configure Linux Environment
-
-  * vim
-  * git
   * mkdocs
+  * git
   * docker
-  * Nginx
-  * Docker Engine
-  * configure
-
-## Save the Commands
-
-**Save the Previous Steps to a Bash File**
+  * vim
 
 ## Contribute to the Documentation Project
 
@@ -31,14 +22,12 @@ or
 The HTML is hosted via GitHub from the publishing repository at
 [github.com/zillonaorg/zillonaorg.github.io](https://github.com/zillonaorg/zillonaorg.github.io) 
 
-To make changes to the code
-
 **Pull the Documentation Source Repository**
 
 The Markdown source for the documentation project can be found at
 [github.com/zillonaorg/Welcome](https://github.com/zillonaorg/Welcome)
 
-To contribute to the documentation project clone the source repository, change
+To contribute to the documentation project pull the source repository, change
 directory into the local git clone and create a new branch from the "develop"
 branch.
 
@@ -128,3 +117,8 @@ host our documentation website in GitHub at
 Deployment is achieved by pushing the website artifact changes to 
 [github.com/zillonaorg/zillonaorg.github.io](https://github.com/zillonaorg/zillonaorg.github.io) 
 and merging to the main branch.
+
+## Install Nginx
+
+## Install Docker Engine
+                                                                                 
